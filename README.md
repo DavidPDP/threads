@@ -10,7 +10,7 @@ Cada vez se coloca un artículo, puede ser descargarArticulo(1) o descargarArtic
 Para crear un paquete el empacador necesita 3 artículos tipo 1 y 4 tipo 2, si no los hay debe esperar.
 ****
 ##Diagrama de Clases Empleado para la solución
-![alt text](https://github.com/esteban-duran/threads/blob/master/diagrama_clases.PNG "Ejecución del programa")
+![alt text](https://github.com/esteban-duran/threads/blob/master/diagrama_clases.png "Ejecución del programa")
 ****
 Integrantes | Código
 --- | --- | ---
