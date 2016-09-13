@@ -6,4 +6,3 @@ Esteban Durán | 12103025
 Dylan Torres | 12103021 
 ****
 ![alt text](https://github.com/esteban-duran/threads/bodega.PNG "Ejecución del programa")
-
