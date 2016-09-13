@@ -1,9 +1,9 @@
 # Solución al problema de la Bodega
 ****
-Markdown | Less | Pretty
+Integrantes | Código
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3 
+Esteban Durán | 12103025 
+Dylan Torres | 12103021 
 ****
 ![alt text](https://github.com/esteban-duran/threads/bodega.PNG "Ejecución del programa")
 
