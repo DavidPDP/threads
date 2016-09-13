@@ -1,6 +1,6 @@
 # Solución al problema de la Bodega
 ***
-| Integrantes                   |
+| Integrantes |
 | Nombres       | Código        |
 | ------------- |:-------------:|
 | Esteban Durán      | 10103025 |
